@@ -22,6 +22,7 @@ You can either click the deploy button to deploy directly on Zerops, or manually
 - Utilization of Zerops' built-in **log management**
 
 <br/>
+.
 
 ## Production vs. development
 
