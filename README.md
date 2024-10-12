@@ -6,7 +6,7 @@ d
 asda
 <br />sdfsdfdf
 asdfadsfasdasd
-## Deploy on Zerops
+## Deploy on Zeropsasas
 You can either click the deploy button to deploy directly on Zerops, or sdfsmanually copy the [import yaml](https://github.com/zeropsio/recipe-go/blob/main/zerops-project-import.yml) to the import dialog in the Zerops app.
 
 [![Deploy on Zerops](https://github.com/zeropsio/recipe-shared-assets/blob/main/deploy-button/green/deploy-button.svg)](https://app.zerops.io/recipe/go)
