@@ -5,7 +5,7 @@ d
 ![go](https://github.com/zeropsio/recipe-shared-assets/blob/main/covers/svg/cover-go.svg)
 asda
 <br />sdfsdfdf
-asdfadsfasdasdasasda
+asdfadsfasdasdasasdaasdasd
 ## Deploy on Zeropsasassad
 You can either click the deploy button to deploy directly on Zerops, or sdfsmanually copy the [import yaml](https://github.com/zeropsio/recipe-go/blob/main/zerops-project-import.yml) to the import dialog in the Zerops app.
 
