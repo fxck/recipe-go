@@ -12,7 +12,7 @@ You can either click the deploy button to deploy directly on Zerops, or sdfsmanu
 [![Deploy on Zerops](https://github.com/zeropsio/recipe-shared-assets/blob/main/deploy-button/green/deploy-button.svg)](https://app.zerops.io/recipe/go)
 
 <br/>xasdasd
-asdasd
+asdasdmjoo
 
 ## Recipe features
 - **Golang v1.22.** on a load balanced **Zerops Go** service
